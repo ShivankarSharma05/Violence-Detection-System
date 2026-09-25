@@ -1,0 +1,12 @@
+# Core Machine Learning & Deep Learning
+tensorflow>=2.10.0
+
+# Computer Vision & Image Processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Web Framework & API Server
+Flask>=3.0.0
+
+# Audio & Multimedia
+pygame>=2.5.0

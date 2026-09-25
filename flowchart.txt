@@ -1,0 +1,13 @@
+Video → Frames → CNN (feature extraction) → LSTM → Output
+
+
+
+Camera
+  ↓
+AI Detection
+  ↓
+Violence > 0.6 → Alarm
+  ↓
+Violence > 0.8 → SOS Prompt
+  ↓
+Driver presses S → SMS sent
